@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://pwuethri.github.io/sitemap.xml
