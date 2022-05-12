@@ -43,9 +43,9 @@ menu:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Nodes&Edges
-  description: "Connectin thoughts - One at a time;"
+  description: "Connecting thoughts - One at a time;"
   keywords: [Blog]
-  author: Pierre
+  author: Pierre Wüthrich
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -54,7 +54,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -81,7 +81,7 @@ params:
   # home-info mode
   homeInfoParams:
     enabled: true # needs to be explicitly set
-    title: Nodes&Edges
+    title: Pierre Wüthrich - Nodes & Edges
     Content: "Welcome to my personal blog! \U0001F44B"
     buttons:
       - name: Posts
@@ -112,4 +112,3 @@ params:
 
 taxonomies:
   tag: tags
-
