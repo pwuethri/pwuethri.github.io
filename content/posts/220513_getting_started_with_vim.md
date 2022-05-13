@@ -21,7 +21,7 @@ tags: [Tutorial, Vim]
 
 # Introduction
 
-Current or aspiring Engineer/Scientist are very likely to end up in a situation where coding will be required. I coded every single day in all of my jobs so far and it is therefore worthwhile to spend some time on finding and configuring available tools to ensure a smooth and productive experience.
+Current or aspiring Engineer/Scientist are very likely to end up in a situation where coding will be required. I coded nearly every day in my jobs so far and it is therefore worthwhile to spend some time on finding and configuring available tools to ensure a smooth and productive experience.
 
 My goal for this series is to describe how to set up a functioning coding environment on MacOS (Linux distros will be very similar if not the same). I will go through the tools that I have used in the past, but there are a plethora of tools out there. Feel free to explore and try out other ones for yourself as the choice sometimes falls down to simple personal preference.
 
