@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pwuethri.github.io/</loc>
+    <lastmod>2022-05-13T12:51:37+09:00</lastmod>
+  </url><url>
+    <loc>https://pwuethri.github.io/posts/</loc>
+    <lastmod>2022-05-13T12:51:37+09:00</lastmod>
+  </url><url>
+    <loc>https://pwuethri.github.io/posts/220513_getting_started_with_vim/</loc>
+    <lastmod>2022-05-13T12:51:37+09:00</lastmod>
+  </url><url>
     <loc>https://pwuethri.github.io/about/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pwuethri.github.io/archives/</loc>
-  </url><url>
-    <loc>https://pwuethri.github.io/</loc>
   </url><url>
     <loc>https://pwuethri.github.io/search/</loc>
   </url><url>
