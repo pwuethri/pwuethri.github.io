@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nodes&amp;Edges - Pierre&#39;s Blog</title>
-    <link>https://pwuethri.github.io/</link>
-    <description>Recent content on Nodes&amp;Edges - Pierre&#39;s Blog</description>
+    <title>Vim on Nodes&amp;Edges - Pierre&#39;s Blog</title>
+    <link>https://pwuethri.github.io/tags/vim/</link>
+    <description>Recent content in Vim on Nodes&amp;Edges - Pierre&#39;s Blog</description>
     <image>
       <url>https://pwuethri.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://pwuethri.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pwuethri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pwuethri.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting up a Coding Environment - Part 1: Getting Started with VIM</title>
       <link>https://pwuethri.github.io/posts/220513_getting_started_with_vim/</link>
@@ -21,20 +21,6 @@
 Introduction Current or aspiring Engineer/Scientist are very likely to end up in a situation where coding will be required. I coded every single day in all of my jobs so far and it is therefore worthwhile to spend some time on finding and configuring available tools to ensure a smooth and productive experience.
 My goal for this series is to describe how to set up a functioning coding environment on MacOS (Linux distros will be very similar if not the same).</description>
     </item>
-    
-    <item>
-      <title>Hello there!</title>
-      <link>https://pwuethri.github.io/about/</link>
-      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwuethri.github.io/about/</guid>
-      <description>Welcome to my personal blog, my name is Pierre Wüthrich.
-I am a Machine Learning Engineer / Data Scientist passionate about topics ranging from AI to Quantum Computing.
-This webpage hosted on GitHub is my personal notes repository where I will occasionally make posts with interesting tidbits of coding/consulting I learned on my professional journey.
-Contact Information Please feel free to contact me to discuss AI in general or just to say hello :-) You can find my SNS info on the landing page!</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
