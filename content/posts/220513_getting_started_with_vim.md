@@ -1,6 +1,6 @@
 ---
 title: "Setting up a Coding Environment - Part 1: Getting Started with VIM"
-date: 2022-05-13T12:51:37+09:00
+date: 2022-05-13
 showToc: false
 TocOpen: false
 hidemeta: false
@@ -13,6 +13,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
+tags: [Tutorial, Vim]
 ---
 
 ![](https://imgs.xkcd.com/comics/hottest_editors.png)
