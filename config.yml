@@ -45,7 +45,6 @@ params:
   title: Nodes&Edges
   description: "Connecting thoughts - One at a time;"
   keywords: [Blog]
-  author: Pierre Wüthrich
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -93,6 +92,8 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
+    responsiveImages: true
+    linkFullImages: true
 
   #  editPost:
   #    URL: "https://github.com/lexcao/lexcao.github.io/content"

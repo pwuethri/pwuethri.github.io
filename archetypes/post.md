@@ -1,11 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-author: "Pierre"
-draft: true
-showToc: true
+showToc: false
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
 disableHLJS: true # to disable highlightjs
@@ -17,4 +14,5 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
+draft: true
 ---
