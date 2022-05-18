@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: " "
+date: 2022-
 showToc: false
 TocOpen: false
 hidemeta: false
@@ -15,4 +15,5 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
 draft: true
+tags: []
 ---
