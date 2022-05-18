@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pwuethri.github.io/tags/keys/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pwuethri.github.io/</loc>
-    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pwuethri.github.io/posts/</loc>
-    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pwuethri.github.io/posts/220513_getting_started_with_vim/</loc>
-    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+    <loc>https://pwuethri.github.io/posts/220518_remapping_caps/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pwuethri.github.io/tags/</loc>
-    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pwuethri.github.io/tags/tip/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pwuethri.github.io/tags/windows/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pwuethri.github.io/posts/220517_installing_wsl/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pwuethri.github.io/tags/linux/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pwuethri.github.io/tags/tutorial/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pwuethri.github.io/tags/wsl/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pwuethri.github.io/posts/220513_getting_started_with_vim/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pwuethri.github.io/tags/vim/</loc>

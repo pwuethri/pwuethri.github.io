@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Keys on Nodes&amp;Edges - Pierre&#39;s Blog</title>
+    <link>https://pwuethri.github.io/tags/keys/</link>
+    <description>Recent content in Keys on Nodes&amp;Edges - Pierre&#39;s Blog</description>
+    <image>
+      <url>https://pwuethri.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pwuethri.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pwuethri.github.io/tags/keys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remapping the Caps lock key to Ctrl</title>
+      <link>https://pwuethri.github.io/posts/220518_remapping_caps/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwuethri.github.io/posts/220518_remapping_caps/</guid>
+      <description>Introduction I don&amp;rsquo;t find myself using the Caps lock key that much and would rather have it mapped to Control for convienience. While this is really straight-forward on a Mac, it requires a non-obvious solution on Windows. Luckily, SO came to the rescue.
+The Recipe We need to run Powershell as an administrator and type the following commands:
+$hexified = &amp;#34;00,00,00,00,00,00,00,00,02,00,00,00,1d,00,3a,00,00,00,00,00&amp;#34;.Split(&amp;#39;,&amp;#39;) | % { &amp;#34;0x$_&amp;#34;}; $kbLayout = &amp;#39;HKLM:\System\CurrentControlSet\Control\Keyboard Layout&amp;#39;; New-ItemProperty -Path $kbLayout -Name &amp;#34;Scancode Map&amp;#34; -PropertyType Binary -Value ([byte[]]$hexified); After reboot, the caps lock key will be mapped to Ctrl</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tutorial on Nodes&amp;Edges - Pierre&#39;s Blog</title>
-    <link>https://pwuethri.github.io/tags/tutorial/</link>
-    <description>Recent content in Tutorial on Nodes&amp;Edges - Pierre&#39;s Blog</description>
+    <title>WSL on Nodes&amp;Edges - Pierre&#39;s Blog</title>
+    <link>https://pwuethri.github.io/tags/wsl/</link>
+    <description>Recent content in WSL on Nodes&amp;Edges - Pierre&#39;s Blog</description>
     <image>
       <url>https://pwuethri.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://pwuethri.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pwuethri.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pwuethri.github.io/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to install WSL on Windows</title>
       <link>https://pwuethri.github.io/posts/220517_installing_wsl/</link>
@@ -20,17 +20,6 @@
       <description>Introduction Windows Subsystem Linux (WSL) is an amazing feature that allows users to run full Linux distros directly from Windows. It removes the need to run a virtual machine or restart and select an OS during dualbooting.
 In this post, we will see how easy it is to install WSL on Windows and get an Ubuntu distribution up and running.
 Installing WSL Installing WSL can be done by running Powershell (as an administrator) and run the command</description>
-    </item>
-    
-    <item>
-      <title>Setting up a Coding Environment - Part 1: Getting Started with VIM</title>
-      <link>https://pwuethri.github.io/posts/220513_getting_started_with_vim/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwuethri.github.io/posts/220513_getting_started_with_vim/</guid>
-      <description>Source: xkcd Comic
-Introduction Current or aspiring Engineer/Scientist are very likely to end up in a situation where coding will be required. I coded nearly every day in my jobs so far and it is therefore worthwhile to spend some time on finding and configuring available tools to ensure a smooth and productive experience.
-My goal for this series is to describe how to set up a functioning coding environment on MacOS (Linux distros will be very similar if not the same).</description>
     </item>
     
   </channel>
