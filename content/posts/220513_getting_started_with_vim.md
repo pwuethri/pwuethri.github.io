@@ -16,7 +16,7 @@ ShowRssButtonInSectionTermList: true
 tags: [Tutorial, Vim]
 ---
 
-![](https://imgs.xkcd.com/comics/hottest_editors.png)
+![](https://imgs.xkcd.com/comics/hottest_editors.png#center)
 *Source: xkcd Comic*
 
 # Introduction
