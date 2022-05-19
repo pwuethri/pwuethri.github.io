@@ -46,7 +46,7 @@ Running the __Ubuntu__ app will open a window which will prompt us to enter an u
 
 One nifty trick is to link the Windows home folder to Linux's home folder via a symbolic link `ln -s /mnt/c/Users/<username> ~/winhome`. This will make the access to the Windows files easy via the command `cd ~/winhome`.
 
-Packages can be updated and upgraded as usual via `sudo apt update && sudo apt upgrade`.
+Packages can be updated and upgraded as usual via `sudo apt update && sudo apt upgrade`. As an example, **git** can be installed via `sudo apt-get update` followed by `sudo apt-get install git`. The version can be checked with `git --version`.
 
 # Setting up Windows Terminal
 
