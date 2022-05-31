@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pwuethri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pwuethri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up a Coding Environment - Part 2: Customizing VIM with plugins and tuning settings</title>
+      <link>https://pwuethri.github.io/posts/220531_add_plugins_to_vim/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwuethri.github.io/posts/220531_add_plugins_to_vim/</guid>
+      <description>Introduction In the first post of this series, we saw how to install and get around VIM. In this post, we will start configuring VIM to our preferences via plugins. All plugins and configurations for VIM are defined in a file called vimrc. The file is by default located in your home directory as ~/.vimrc. This is the file which we edit below.
+There are many plugin managers like vim-plug, vundle or minpac.</description>
+    </item>
+    
     <item>
       <title>Remapping the Caps lock key to Ctrl</title>
       <link>https://pwuethri.github.io/posts/220518_remapping_caps/</link>
