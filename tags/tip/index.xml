@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pwuethri.github.io/tags/tip/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pwuethri.github.io/tags/tip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VIM tip: How to quickly increment or decrement a number within VIM</title>
+      <link>https://pwuethri.github.io/posts/220608_vim_increment_decrement/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwuethri.github.io/posts/220608_vim_increment_decrement/</guid>
+      <description>Introduction I recently came upon a very interesting trick to quickly increment or decrement a number within VIM. These simple shortcut keys are really helpful in case we made a small mistake and don&amp;rsquo;t want to rewrite the whole number.
+Example Let&amp;rsquo;s assume we have the following text in our current file:
+Good morning Sir, I would like to buy 4 peaches. With the cursor at the beginning of the line, we can press &amp;lt;Ctrl-a&amp;gt; to increase or &amp;lt;Ctrl-x&amp;gt; to decrease the 4 in the above text.</description>
+    </item>
+    
     <item>
       <title>Remapping the Caps lock key to Ctrl</title>
       <link>https://pwuethri.github.io/posts/220518_remapping_caps/</link>
